@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "reversible-footprints")(type "KiCad")(uri "${KIPRJMOD}/reversible-kicad/reversible-kicad-footprints")(options "")(descr "from tzarc"))
+  (lib (name "keebio")(type "KiCad")(uri "${KIPRJMOD}/keebio-components")(options "")(descr "from keebio"))
+)
