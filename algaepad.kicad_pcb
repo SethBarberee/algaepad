@@ -5,6 +5,12 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "AlgaePad")
+    (rev "1.0")
+    (company "by Seth Barberee")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
