@@ -1,5 +1,5 @@
 (sym_lib_table
-  (lib (name "reversible-kicad")(type "Legacy")(uri "${KIPRJMOD}/reversible-kicad/reversible-kicad-symbols.lib")(options "")(descr "from tzarc"))
+  (version 7)
   (lib (name "keebio-components")(type "Legacy")(uri "${KIPRJMOD}/keebio-components/keebio.lib")(options "")(descr "from keebio"))
-  (lib (name "algaepad-library")(type "KiCad")(uri "${KIPRJMOD}/algaepad-library.kicad_sym")(options "")(descr ""))
+  (lib (name "reversible-footprints")(type "Legacy")(uri "${KIPRJMOD}/reversible-kicad/reversible-kicad-symbols.lib")(options "")(descr "from tzarc"))
 )

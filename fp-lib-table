@@ -1,4 +1,6 @@
 (fp_lib_table
+  (version 7)
   (lib (name "reversible-footprints")(type "KiCad")(uri "${KIPRJMOD}/reversible-kicad/reversible-kicad-footprints")(options "")(descr "from tzarc"))
-  (lib (name "keebio")(type "KiCad")(uri "${KIPRJMOD}/keebio-components")(options "")(descr "from keebio"))
+  (lib (name "keebio-components")(type "KiCad")(uri "${KIPRJMOD}/keebio-components")(options "")(descr "from keebio"))
+  (lib (name "keebio-parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr "from keebio"))
 )
